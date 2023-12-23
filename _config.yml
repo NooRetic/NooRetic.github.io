@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nour's robotics work"
+title                    : "Mechanix Innovations"
 title_separator          : "-"
 name                     : &name "Nour Morsi"
 description              : &description "personal description"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/Nour__Morsi"
+  twitter          : "Nour__Morsi"
   vine             :
   weibo            :
   xing             :
