@@ -2,6 +2,7 @@
 title: "Autonomous robotic inspection system for drill holes tilt: feasibility and development by advanced simulation and real testing"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
+ieee_link: https://ieeexplore.ieee.org/document/10275276
 excerpt: 'This paper is about devising an autonomous robotic inspection system. Testing on a **real** application is the future paper '
 date: 2023-10-01
 venue: 'International Conference on Automation and Computing (ICAC)'
