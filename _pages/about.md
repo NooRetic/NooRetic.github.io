@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nour Morsi's mechatronics webpage"
+title: "Dr. Nour Morsi's mechatronics webpage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
