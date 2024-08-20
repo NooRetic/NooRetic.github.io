@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mechanix Innovations"
 title_separator          : "-"
-name                     : &name "Nour Morsi"
+name                     : &name "Dr.Nour Morsi"
 description              : &description "personal description"
 url                      : https://NooRetic.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

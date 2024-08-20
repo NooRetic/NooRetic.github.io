@@ -9,12 +9,9 @@ redirect_from:
 ---
 
 
+I am a recent Ph.D. graduate in Robotics from Glasgow Caledonian University, where I specialized in overcoming barriers to the adoption of robotic systems in the aerospace industry. My research, titled 'Feasibility Testing and Part Handling by Advanced Simulation for Small and Medium-sized Enterprises,' focused on developing a state-of-the-art robotic inspection system.
 
-I am a recent Bachelor's Mechanical Engineering graduate from the University of Strathclyde, currently immersed in the pursuit of a Ph.D. in Robotics at Glasgow Caledonian University. My research project, titled 'Feasibility Testing and Part Handling by Advanced Simulation for Small and Medium-sized Enterprises,' seeks to overcome the challenges hindering the widespread adoption of robotic systems in the aerospace industry.
-
-My primary focus revolves around the development of a cutting-edge robotic inspection system. This innovative system harnesses the power of visual feedback to meticulously inspect the leading-edge wing of an A320 aircraft. By addressing the current limitations in implementing robotic solutions, my research aims to enhance efficiency and precision in aerospace manufacturing processes.
-
-
+This innovative system leverages advanced visual feedback techniques to conduct detailed inspections of the slot actuator mount of an A320 aircraft. By addressing the current limitations in robotic solutions, my work aims to significantly improve efficiency and precision in aerospace manufacturing processes.
 
 <!-- Create content & metadata
 ------
