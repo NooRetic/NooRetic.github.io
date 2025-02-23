@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mechanix Innovations"
+title                    : "TheRoboticsGuy"
 title_separator          : "-"
 name                     : &name "Dr.Nour Morsi"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dr.Nour Mohamed Morsi"
   avatar           : "pf.jpeg"
-  bio              : "Robotics and machine vision"
-  location         : "Glasgow,Scotland"
+  bio              : "Robotics and machine vision researcher"
+  location         : "Edinburgh,Scotland"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=DvygrrAAAAAJ&hl=en&oi=ao"
