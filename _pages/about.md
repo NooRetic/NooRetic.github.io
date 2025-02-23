@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am a recent Ph.D. graduate in Robotics from Glasgow Caledonian University, where I specialized in overcoming barriers to the adoption of robotic systems in the aerospace industry. My research, titled 'Feasibility Testing and Part Handling by Advanced Simulation for Small and Medium-sized Enterprises,' focused on developing a state-of-the-art robotic inspection system.
-
-This innovative system leverages advanced visual feedback techniques to conduct detailed inspections of the slot actuator mount of an A320 aircraft. By addressing the current limitations in robotic solutions, my work aims to significantly improve efficiency and precision in aerospace manufacturing processes.
+I hold a Ph.D. in Robotics from Glasgow Caledonian University, where my research focused on breaking down barriers to the adoption of advanced robotic systems in the aerospace industry. My dissertation, “FEASIBILITY TESTING OF ROBOTICS INSPECTION BY ADVANCED SIMULATION FOR AEROSPACE STRUCTURES ,” led to the creation of an innovative robotic inspection system that harnesses cutting-edge visual feedback techniques. This system conducts meticulous inspections of plane slat actuator mounts, addressing current limitations and significantly enhancing efficiency and precision in aerospace manufacturing.
+Throughout my academic journey, I have published several peer-reviewed articles and presented my work at international conferences, contributing to the ongoing dialogue in robotics and automation. My technical expertise spans advanced simulation, computer vision, and machine learning, complemented by proficiency in programming languages such as Python and C++.
+Currently, I am a research associate at the University of Strathclyde, where I am engaged in a Knowledge Transfer Partnership (KTP) project focused on automating an assembly line for an egg packing company. This role not only allows me to apply my research in real-world industrial settings but also highlights my ability to bridge academia and industry through collaborative innovation. In addition to my research activities, I have been recognized with [insert award names if applicable] for my contributions to the field, and I am an active member of professional organizations such as [insert professional memberships].
 
 <!-- Create content & metadata
 ------
