@@ -1,7 +1,7 @@
 ---
 title: "KTP West of Scotland image award- Best picture "
 excerpt: "KTP West of Scotland image award- Best picture<br/><img src='/images/Test.png'>"
-collection: portfolio
+collection: Awards
 ---
 
 I’m honored to have won best picture award as part of the KTP West of Scotland at the KTP 50th Anniversary Image Showcase 2025!
