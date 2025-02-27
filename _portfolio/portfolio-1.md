@@ -1,6 +1,6 @@
 ---
 title: "KTP West of Scotland image award- Best picture "
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Test.png'>"
+excerpt: "KTP West of Scotland image award- Best picture<br/><img src='/images/Test.png'>"
 collection: portfolio
 ---
 
