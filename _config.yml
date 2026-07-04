@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "TheRoboticsGuy"
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 title_separator          : "-"
 name                     : &name "Dr.Nour Morsi"
