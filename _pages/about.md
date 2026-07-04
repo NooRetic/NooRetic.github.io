@@ -14,7 +14,7 @@ I also hold a First-Class BEng in Mechanical Engineering from the University of 
 Throughout my academic journey, I have published peer-reviewed work and presented at international conferences, including ROBOVIS 2021 and ICAC 2023, contributing to the ongoing dialogue in robotics and automation. My technical expertise spans advanced simulation, computer vision, and machine learning, with research interests extending to tactile sensing, soft robotics, and human-robot interaction. This was complemented by proficiency in Python.
 Earlier in my career, I worked as a Research Associate at the University of Strathclyde on a Knowledge Transfer Partnership (KTP) project with Innovate UK, automating an assembly line for an egg-packing company, an experience that sharpened my ability to bridge academia and industry through collaborative innovation.
 I am currently a Lecturer in Robotics and AI at the University of Hertfordshire, where I teach across modules including Robot Design and Build, Maths for Robotics and AI, and Data Analytics for Engineers, and continue to develop curriculum at the intersection of engineering, robotics, and AI.
-I am an Fellow of the Higher Education Academy (FHEA) and an Associate Member of the Institution of Mechanical Engineers (AMIMechE), and I hold a UK Global Talent Visa in recognition of my contributions to the field.
+I am a Fellow of the Higher Education Academy (FHEA) and an Associate Member of the Institution of Mechanical Engineers (AMIMechE), and I hold a UK Global Talent Visa in recognition of my contributions to the field.
 
 <!-- Create content & metadata
 ------
